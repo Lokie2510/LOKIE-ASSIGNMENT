@@ -1,0 +1,13 @@
+div{
+    background-color:#e1c4a6 ;
+    color:#0f0f0f;
+    width:500px;
+    height:800px;
+    margin:20px;
+    padding-top:20px;
+    border:10px groove #b66c18;
+   font-size: 20px;
+   font-weight: 900;
+   overflow: scroll;
+  /* overflow: hidden*/;
+}
